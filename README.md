@@ -6,9 +6,11 @@ This project aims to predict the daily bike rental demand based on environmental
 
 ## Objectives
 
--Understand patterns and seasonal trends in bike rental data.
--Build and evaluate regression models to predict daily demand.
--Identify key factors influencing rental counts.
+ -Understand patterns and seasonal trends in bike rental data.
+
+ -Build and evaluate regression models to predict daily demand.
+
+ -Identify key factors influencing rental counts.
 
 ## Techniques Used
 

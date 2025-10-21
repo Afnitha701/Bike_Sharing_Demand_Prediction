@@ -39,9 +39,9 @@ This project aims to predict the daily bike rental demand based on environmental
 
 ## Key Insights
 
--Bike rentals peak during warmer months and weekdays.
--Weather and temperature significantly impact daily demand.
--Machine learning models can provide reliable demand forecasts for business decisions.
+ -Bike rentals peak during warmer months and weekdays.
+ -Weather and temperature significantly impact daily demand.
+ -Machine learning models can provide reliable demand forecasts for business decisions.
 
 ---
 
